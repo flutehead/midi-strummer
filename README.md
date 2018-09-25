@@ -11,3 +11,7 @@ Conversion is as follows:
 
 MidiStrummer alternates between strum up and strum down, velo is converted into arpeggio delay.
 Two variants are provided per chord.
+
+To-do:
+* Replace delay() with async timer
+* Add footswitch for stopping chords / ghost notes
